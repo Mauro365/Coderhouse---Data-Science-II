@@ -7,8 +7,8 @@ Variable objetivo:
   Conversion_Status (texto): binario que indica con "1" si el cliente compró o no.
   
 Las variables del DataSet son:
-  Age (numérico): Edad del sujeto.
-  Is_Senior (texto): Binario que indicado si la persona es o no mayor a 55 años.
+1. Age (numérico): Edad del sujeto.
+2. Is_Senior (texto): Binario que indicado si la persona es o no mayor a 55 años.
   Marital_Status (texto): Estado Civil.
   Married_Premium_Discount (número): Descuento en caso de casado.
   Prior_Insurance (texto): Duración del seguro anterior al actual.
