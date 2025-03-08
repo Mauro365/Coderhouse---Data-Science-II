@@ -7,17 +7,17 @@ Variable objetivo:
   Conversion_Status (texto): binario que indica con "1" si el cliente compró o no.
   
 Las variables del DataSet son:
-  Age (numérico): Edad del sujeto
-  Is_Senior (texto): Binario que indicado si la persona es o no mayor a 55 años
-  Marital_Status (texto): Estado Civil
-  Married_Premium_Discount (número): Descuento en caso de casado
-  Prior_Insurance (texto): Duración del seguro anterior al actual
+  Age (numérico): Edad del sujeto.
+  Is_Senior (texto): Binario que indicado si la persona es o no mayor a 55 años.
+  Marital_Status (texto): Estado Civil.
+  Married_Premium_Discount (número): Descuento en caso de casado.
+  Prior_Insurance (texto): Duración del seguro anterior al actual.
   Prior_Insurance_Premium_Adjustment (número): Descuento por duración del seguro anterior. 50 en caso de 1-5 años y 100 en caso de <1 año. 
   Claims_Frequency (número): frecuencia anual de reclamos.
   Claims_Severity (texto): severidad de los reclamos.
-  Claims_Adjustment (número): ajuste por reclamos. (Frecuencia por severidad, considerando la severidad Low = 50, Medium = 100 y High = 200)
-  Policy_Type (texto): tipo de cobertura (Full Coverage o Liability-Only)
-  Policy_Adjustment (número): ajuste por Policy_Type (si es Liability-Only = -200, Full Coverage = 0)
+  Claims_Adjustment (número): ajuste por reclamos (Frecuencia por severidad, considerando la severidad Low = 50, Medium = 100 y High = 200).
+  Policy_Type (texto): tipo de cobertura (Full Coverage o Liability-Only).
+  Policy_Adjustment (número): ajuste por Policy_Type (si es Liability-Only = -200, Full Coverage = 0).
   Premium_Amount (número): Promoción final.
   Safe_Driver_Discount (texto): binario que indica con "1" si corresponde descuento por buen conductor.
   Multi_Policy_Discount (texto): binario que indica con "1" si corresponde descuento por múltiples.
