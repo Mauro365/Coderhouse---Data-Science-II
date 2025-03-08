@@ -9,8 +9,8 @@ Variable objetivo:
 Las variables del DataSet son:
 1. Age (numérico): Edad del sujeto.
 2. Is_Senior (texto): Binario que indicado si la persona es o no mayor a 55 años.
-  Marital_Status (texto): Estado Civil.
-  Married_Premium_Discount (número): Descuento en caso de casado.
+  3. Marital_Status (texto): Estado Civil.
+4.Married_Premium_Discount (número): Descuento en caso de casado.
   Prior_Insurance (texto): Duración del seguro anterior al actual.
   Prior_Insurance_Premium_Adjustment (número): Descuento por duración del seguro anterior. 50 en caso de 1-5 años y 100 en caso de <1 año. 
   Claims_Frequency (número): frecuencia anual de reclamos.
