@@ -1,7 +1,7 @@
 # Coderhouse---Data-Science-II
 Coderhouse---Data-Science-II
 
-Una compañía de seguros de autos cuenta con una base de datos de los distintos individuos a los que les realizó una cotización de seguro. Este DataSet contiene características del individuo, características del contacto, variables asociadas al monto de la cotización y si finalmente el individuo contrató o no el servicio de seguros de autos. Con el fin de concentrar sus esfuerzos sobre los clientes más probables a comprar y no esforzarse en los menos probables, el objetivo de este análisis será predecir la variable Conversion_Status por medio de Aprendizaje Supervisado.
+Una compañía de seguros de autos cuenta con una base de datos de los distintos individuos a los que les realizó una cotización de seguro. Este DataSet contiene características del individuo, características del contacto, variables asociadas al monto de la cotización y si finalmente el individuo contrató o no el servicio de seguros de autos. Con el fin de concentrar sus esfuerzos sobre los clientes más probables a comprar y no esforzarse en los menos probables, el objetivo de este análisis será predecir la variable Conversion_Status por medio de Aprendizaje Supervisado por Clasificación.
 
 Variable objetivo:
   Conversion_Status (texto): binario que indica con "1" si el cliente compró o no.
